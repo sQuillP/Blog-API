@@ -1,0 +1,33 @@
+[
+    {
+    "name": "tom higgins",
+    "email": "tom@gmail.com",
+    "password": "abc123"
+
+    },
+    {
+        "name": "Mary Cliff",
+        "email": "mary@gmail.com",
+        "password": "abc123"
+    },
+    {
+        "name": "Clint Eastwood",
+        "email": "clint@gmail.com",
+        "password": "abc123"
+    },
+    {
+        "name": "John Doe",
+        "email": "John@gmail.com",
+        "password": "abc123"
+    },
+    {
+        "name": "user",
+        "email": "user@gmail.com",
+        "password": "abc123"
+    },
+    {
+        "name": "William Pattison",
+        "email":"will@gmail.com",
+        "password":"abc123"
+    }
+]
